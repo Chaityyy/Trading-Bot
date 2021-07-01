@@ -7,7 +7,7 @@
 - Uses WebSocket to stream tickline data.
 - Uses data based on 1 minute candlestick pattern.
 
-### : Clone the Repo:
+### Clone the Repo:
 
 https://github.com/Chaityyy/Trading-Bot.git
 
