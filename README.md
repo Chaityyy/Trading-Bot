@@ -7,6 +7,12 @@
 - Uses WebSocket to stream tickline data.
 - Uses data based on 1 minute candlestick pattern.
 
+### Editings/Specificity of Cryptocurrency 
+
+- Change the ticker of cryptocurrency of your choice (ex: BTCUSDT, ETHUSDT).
+- If already bought and wants to sell only, change in_position to False.
+- Set the Price (=0 default) below which you don't want to trade.
+
 ### Clone the Repo:
 
 https://github.com/Chaityyy/Trading-Bot.git
